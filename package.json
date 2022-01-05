@@ -29,6 +29,7 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "express-validator": "~6.5.0",
+    "http-errors": "^2.0.0",
     "joi": "^17.5.0",
     "morgan": "^1.9.1",
     "serverless": "^2.70.0",
