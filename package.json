@@ -24,8 +24,13 @@
   },
   "homepage": "https://github.com/AgustinRow/joi-example#readme",
   "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
     "express": "^4.17.1",
     "express-validator": "~6.5.0",
+    "joi": "^17.5.0",
+    "morgan": "^1.9.1",
     "serverless": "^2.70.0",
     "serverless-http": "^2.7.0"
   },
